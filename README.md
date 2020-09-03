@@ -1,5 +1,5 @@
 # sc_binary_splicing
-Dataset analysis, simulations and figures from https://www.biorxiv.org/content/10.1101/2019.12.19.883256v1
+Dataset analysis, simulations and figures from https://doi.org/10.7554/eLife.54603.
 
 **Coverage-dependent bias creates the appearance of binary splicing in single cells**
 
